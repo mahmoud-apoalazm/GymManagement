@@ -1,0 +1,11 @@
+@GymManagement.Api_HostAddress = http://localhost:5033
+@adminId =81DB5BDA-F7DB-4F91-929E-CA48D95C7EB2
+
+POST {{GymManagement.Api_HostAddress}}/SubScriptions/
+Content-Type: application/json
+
+{
+  "subscriptionType" : "Free",
+  "adminId" : "{{adminId}}"
+}
+###

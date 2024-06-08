@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "yjxGbnFPF98TQ7FIAq+UkZfjqAKRu/OCGU/aCs6Z4FTKdJHuUHSpAxfoOUm3zZqUCjaZ6EGtkbFDfd0nqeeWIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MaHmOuD\\source\\repos\\GymManagement\\TestCommon\\TestCommon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MaHmOuD\\.nuget\\packages\\ardalis.smartenum\\8.0.0\\ardalis.smartenum.8.0.0.nupkg.sha512",
+    "C:\\Users\\MaHmOuD\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\MaHmOuD\\.nuget\\packages\\bcrypt.net-next.strongname\\4.0.3\\bcrypt.net-next.strongname.4.0.3.nupkg.sha512",
+    "C:\\Users\\MaHmOuD\\.nuget\\packages\\erroror\\1.10.0\\erroror.1.10.0.nupkg.sha512",
+    "C:\\Users\\MaHmOuD\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\MaHmOuD\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\MaHmOuD\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "C:\\Users\\MaHmOuD\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\MaHmOuD\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\MaHmOuD\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\MaHmOuD\\.nuget\\packages\\oneof\\3.0.216\\oneof.3.0.216.nupkg.sha512",
+    "C:\\Users\\MaHmOuD\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\MaHmOuD\\.nuget\\packages\\throw\\1.4.0\\throw.1.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

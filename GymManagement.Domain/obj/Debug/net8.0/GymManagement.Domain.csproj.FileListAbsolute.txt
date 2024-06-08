@@ -1,0 +1,12 @@
+C:\Users\MaHmOuD\source\repos\GymManagement\GymManagement.Domain\bin\Debug\net8.0\GymManagement.Domain.deps.json
+C:\Users\MaHmOuD\source\repos\GymManagement\GymManagement.Domain\bin\Debug\net8.0\GymManagement.Domain.dll
+C:\Users\MaHmOuD\source\repos\GymManagement\GymManagement.Domain\bin\Debug\net8.0\GymManagement.Domain.pdb
+C:\Users\MaHmOuD\source\repos\GymManagement\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\MaHmOuD\source\repos\GymManagement\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaHmOuD\source\repos\GymManagement\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\MaHmOuD\source\repos\GymManagement\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.AssemblyInfo.cs
+C:\Users\MaHmOuD\source\repos\GymManagement\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MaHmOuD\source\repos\GymManagement\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.dll
+C:\Users\MaHmOuD\source\repos\GymManagement\GymManagement.Domain\obj\Debug\net8.0\refint\GymManagement.Domain.dll
+C:\Users\MaHmOuD\source\repos\GymManagement\GymManagement.Domain\obj\Debug\net8.0\GymManagement.Domain.pdb
+C:\Users\MaHmOuD\source\repos\GymManagement\GymManagement.Domain\obj\Debug\net8.0\ref\GymManagement.Domain.dll

@@ -1,0 +1,197 @@
+[
+  {
+    "ContainingType": "GymManagement.Api.Controllers.RoomsController",
+    "Method": "CreateRoom",
+    "RelativePath": "gyms/{gymId}/rooms",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "GymManagement.Contracts.Rooms.CreateRoomRequest",
+        "IsRequired": true
+      },
+      {
+        "Name": "gymId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GymManagement.Api.Controllers.RoomsController",
+    "Method": "DeleteRoom",
+    "RelativePath": "gyms/{gymId}/rooms/{roomId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "gymId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "roomId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GymManagement.Api.Controllers.SubscriptionsController",
+    "Method": "CreateSubscription",
+    "RelativePath": "Subscriptions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "GymManagement.Contracts.Subscriptions.CreateSubscriptionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GymManagement.Api.Controllers.SubscriptionsController",
+    "Method": "GetSubscription",
+    "RelativePath": "Subscriptions/{subscriptionId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "subscriptionId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GymManagement.Api.Controllers.SubscriptionsController",
+    "Method": "DeleteSubscription",
+    "RelativePath": "Subscriptions/{subscriptionId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "subscriptionId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GymManagement.Api.Controllers.GymsController",
+    "Method": "CreateGym",
+    "RelativePath": "subscriptions/{subscriptionId}/gyms",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "GymManagement.Contracts.Gyms.CreateGymRequest",
+        "IsRequired": true
+      },
+      {
+        "Name": "subscriptionId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GymManagement.Api.Controllers.GymsController",
+    "Method": "ListGyms",
+    "RelativePath": "subscriptions/{subscriptionId}/gyms",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "subscriptionId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GymManagement.Api.Controllers.GymsController",
+    "Method": "DeleteGym",
+    "RelativePath": "subscriptions/{subscriptionId}/gyms/{gymId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "subscriptionId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "gymId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GymManagement.Api.Controllers.GymsController",
+    "Method": "GetGym",
+    "RelativePath": "subscriptions/{subscriptionId}/gyms/{gymId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "subscriptionId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "gymId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GymManagement.Api.Controllers.GymsController",
+    "Method": "AddTrainer",
+    "RelativePath": "subscriptions/{subscriptionId}/gyms/{gymId}/trainers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "GymManagement.Contracts.Gyms.AddTrainerRequest",
+        "IsRequired": true
+      },
+      {
+        "Name": "subscriptionId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "gymId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
